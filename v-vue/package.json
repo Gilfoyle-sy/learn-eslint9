@@ -1,0 +1,22 @@
+{
+  "name": "v-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.5.2",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^8.26.1",
+    "vue-eslint-parser": "^10.1.1"
+  }
+}

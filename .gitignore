@@ -1,0 +1,20 @@
+# 添加node_module到忽略列表
+node_modules/
+
+# 添加dist到忽略列表
+dist/
+
+# 添加.idea到忽略列表
+.idea/
+
+# 添加.vscode到忽略列表
+.vscode/
+
+# 添加.DS_Store到忽略列表
+.DS_Store/
+
+# 添加package-lock.json到忽略列表
+package-lock.json/
+
+# 添加yarn.lock到忽略列表
+yarn.lock/
